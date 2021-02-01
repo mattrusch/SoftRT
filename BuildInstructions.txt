@@ -1,0 +1,4 @@
+From project root:
+mkdir build
+cd build
+cmake -A x64 -G "Visual Studio 15 2017" ..
